@@ -1,7 +1,7 @@
 {
-  "message": "🚀 A new update is here!",
-  "styles": [
-    {"text": "new update", "color": "white on red"},
-    {"text": "here", "color": "underline green"}
-  ]
+    "message": "Happy New Year!",
+    "styles": [
+        { "text": "Happy", "color": "green" },
+        { "text": "New Year", "color": "yellow" }
+    ]
 }
