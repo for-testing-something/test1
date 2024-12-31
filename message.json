@@ -1,1 +1,7 @@
-
+{
+    "message": " Happy New Year ✨",
+    "styles": [
+        { "text": "Happy", "color": "yellow" },
+        { "text": "New Year", "color": "yellow" }
+    ]
+}
